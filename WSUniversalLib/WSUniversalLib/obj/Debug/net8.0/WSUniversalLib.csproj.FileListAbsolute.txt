@@ -1,0 +1,11 @@
+D:\BulanovKA\WSUniversalLib\WSUniversalLib\bin\Debug\net8.0\WSUniversalLib.deps.json
+D:\BulanovKA\WSUniversalLib\WSUniversalLib\bin\Debug\net8.0\WSUniversalLib.dll
+D:\BulanovKA\WSUniversalLib\WSUniversalLib\bin\Debug\net8.0\WSUniversalLib.pdb
+D:\BulanovKA\WSUniversalLib\WSUniversalLib\obj\Debug\net8.0\WSUniversalLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\BulanovKA\WSUniversalLib\WSUniversalLib\obj\Debug\net8.0\WSUniversalLib.AssemblyInfoInputs.cache
+D:\BulanovKA\WSUniversalLib\WSUniversalLib\obj\Debug\net8.0\WSUniversalLib.AssemblyInfo.cs
+D:\BulanovKA\WSUniversalLib\WSUniversalLib\obj\Debug\net8.0\WSUniversalLib.csproj.CoreCompileInputs.cache
+D:\BulanovKA\WSUniversalLib\WSUniversalLib\obj\Debug\net8.0\WSUniversalLib.dll
+D:\BulanovKA\WSUniversalLib\WSUniversalLib\obj\Debug\net8.0\refint\WSUniversalLib.dll
+D:\BulanovKA\WSUniversalLib\WSUniversalLib\obj\Debug\net8.0\WSUniversalLib.pdb
+D:\BulanovKA\WSUniversalLib\WSUniversalLib\obj\Debug\net8.0\ref\WSUniversalLib.dll
